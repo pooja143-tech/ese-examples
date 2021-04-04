@@ -1,1 +1,1 @@
-# ese-examples
+# es6-examples
